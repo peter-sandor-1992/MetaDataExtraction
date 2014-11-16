@@ -1,0 +1,9 @@
+fax
+int
+phone
+tel
+tel int
+tel usa
+telephone
+usa
+voice
